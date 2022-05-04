@@ -1,0 +1,7 @@
+# gitignore
+.ipynb_checkpoints
+ibm_ai_modules/__pycache__
+ibm_ai_modules/.ipynb_checkpoints
+ibm_ai_modules/config_language.py
+ibm_ai_modules/.env
+ibm_ai_modules/settings.py
